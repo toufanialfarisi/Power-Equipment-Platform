@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Power Equipment</string>
+    <string name="nama_alat">Nama Peralatan</string>
+    <string name="ringkasan_penjelasan">Ringkasan Penjelasan</string>
+    <string name="kegunaan">Kegunaan</string>
+    <string name="fungsi">Fungsi</string>
+    <string name="nama_pembuat">Toufani Rizal Alfarisi</string>
+    <string name="url_web">Personal Web</string>
+    <string name="github">toufani1515@gmail.com</string>
+    <string name="gitlab">gitlab</string>
+</resources>
